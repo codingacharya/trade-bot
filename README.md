@@ -1,4 +1,4 @@
-git clone 
+git clone https://github.com/codingacharya/trade-bot.git
 
 cd trade-bot
 
